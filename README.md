@@ -1,7 +1,7 @@
-# Projeto_Final_IA_Unifesp
-Projeto Final da disciplina de Inteligência Artificial pela Unifesp
+# Final Project_AI_Unifesp
+Final project for the discipline of Artificial Inteligence for Federal University of São Paulo (Unifesp)
 
-Link para vídeo de apresentação do trabalho:
+Link for the presentation in portuguese:
 https://youtu.be/xLyA8xPrd7g
 
-Link para slides da apresentação: https://docs.google.com/presentation/d/1Aya0bxCdqaHhex7-JOgzfLmnY-Vh5HukBwWQQ3WF8yo/edit?usp=sharing
+Link for the slides of the presentation: https://docs.google.com/presentation/d/1Aya0bxCdqaHhex7-JOgzfLmnY-Vh5HukBwWQQ3WF8yo/edit?usp=sharing
